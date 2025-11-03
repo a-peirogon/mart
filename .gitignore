@@ -1,0 +1,20 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# Sphinx build
+_build/
+_static/
+_templates/__pycache__/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
