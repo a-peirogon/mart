@@ -70,7 +70,7 @@ Matemáticas visuales
 
 .. note::
 
-    En general, no se cuenta con derechos para algunas imágenes empleadas. Ante cualquier problema, contactar al autor (mi persona).
+    En general, no se cuenta con derechos para algunas imágenes empleadas. Ante cualquier problema, contactar al autor (mi persona)
 
 .. rst-class:: tune
 
